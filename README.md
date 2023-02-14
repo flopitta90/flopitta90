@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/freirart/freirart/master/readme.gif" align="center" style="height: 400px"  />
-</div>  
-  
-
-### <div align="center">Hi there!! 👋 I am Flor, The best fullstack developer in the making 🫶</div>  
+  ### <div align="center">Hi there!! 👋 I am Flor, The best fullstack developer in the making 🫶</div>  
   
 
 - 🌱 My goal is to create value and have a positive impact on the world through my work. 
@@ -18,7 +13,7 @@
 - ⚡ Fun fact: I was born and raised in Argentina, I lived in New Zealand for 6 years and Now I am what is known as a Digital Nomad travelling around Europe with my Partner.
   
 
-- 🚀 I study at Henry, a Bootcamp specialising in learning how to develop Web Applications while travelling. There I had the opportunity to develop my skills in key technologies such as JavaScript, CSS, Node.js and React. I also took part in their teaching assistant programme. Not only did I improve my technical skills, but I also learnt valuable skills in leading and coordinating groups. As a teaching assistant, I helped students with their integration into the study group and guided them through the first steps of the course.  
+- 🚀 I studied at Henry, a Bootcamp specialising in learning how to develop Web Applications while travelling. There I had the opportunity to develop my skills in key technologies such as JavaScript, CSS, Node.js and React. I also took part in their teaching assistant programme. Not only did I improve my technical skills, but I also learnt valuable skills in leading and coordinating groups. As a teaching assistant, I helped students with their integration into the study group and guided them through the first steps of the course.  
   
 - 🏅 I am a little bit competitive, but I have always prefered the team sports. So for many years I played Hockey 🏑 and after some injuries and a surgery, I switched to Football (or Soccer, depending who is reading) ⚽
 
